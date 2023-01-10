@@ -43,8 +43,8 @@ module.exports = {
         .setTitle(client.user.username + lang.msg19)
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 1024 }))
         .setDescription(`**
-• Owner: \`Umut#6070\` & \`Kadrxy#0001\`
-• Developer: \`Umut#6070\` & \`Kadrxy#0001\`
+• Owner: \`ꭺꭰꭼꮇ#4185\`
+• Developer: \`ꭺꭰꭼꮇ#4185\`
 • User Count: \`${totalMembers || 0}\`
 • Server Count: \`${totalGuilds || 0}\`
 • Channel Count: \`${totalChannels || 0}\`
